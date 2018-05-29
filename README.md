@@ -9,6 +9,9 @@ bootstrap/CSS
  <!-- **溫度轉換**  
        bootstrap/CSS
     ![](./images/home-images/__溫度轉換.png "溫度轉換") -->
+  **小瑪莉**  [more](https://github.com/LoisOUO/2018-BuildSchool-Front-End/tree/master/JavaScript/JS_Hackathon_TurntableGame)  
+  bootstrap/CSS
+![](./images/home-images/image-1-3.png "小瑪莉")
  **溫度轉換**  [more]()  
       bootstrap/CSS
 ![](./images/home-images/image-2-3.png "溫度轉換")
@@ -18,6 +21,10 @@ bootstrap/CSS
  **1A2B**  
  bootstrap/CSS[more]()  
 ![](./images/home-images/image-2-5.png "1A2B")
+
+   **遊程規劃**  [more](https://github.com/LoisOUO/2018-BuildSchool-Front-End/tree/master/JavaScript/TravelPlan)  
+bootstrap/CSS/AJAX
+![](./images/home-images/image-1-4.png "遊程規劃") 
 # 3. jQuery
 **行事曆**  [more]()  
 bootstrap/CSS/AJAX
@@ -25,16 +32,12 @@ bootstrap/CSS/AJAX
     **打地鼠**  [more]()  
 bootstrap/CSS
 ![](./images/home-images/image-1-2.png "打地鼠")
-  **小瑪莉**  [more]()  
-  bootstrap/CSS
-![](./images/home-images/image-1-3.png "小瑪莉")
-**遊程規劃**  [more]()  
-bootstrap/CSS/AJAX
-![](./images/home-images/image-1-4.png "遊程規劃")
+ 
+
   **月曆**  [more](https://github.com/LoisOUO/2018-BuildSchool-Front-End/tree/master/jQuery/Calendar)  
   bootstrap/CSS   
 ![](./images/home-images/image-2-1.png "月曆")
-**終極密碼**  [more]()  
+**終極密碼**  [more](https://github.com/LoisOUO/2018-BuildSchool-Front-End/tree/master/JavaScript/GuessNumber)  
 bootstrap/CSS
    ![](./images/home-images/image-2-2.png "終極密碼")
 
