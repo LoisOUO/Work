@@ -1,31 +1,45 @@
-# Work
-作品集
-<!-- ![](./portfolio/images/55小瑪莉.png "小瑪莉") -->
+# Work/ 作品集
 
 # 1. HTML
-    官網
-    BS網站
-    肉球新聞
-    溫度轉換
-    1A2B
-    終極密碼
-# 2. JS
- **溫度轉換**
+
+**肉球新聞**
+<!-- https://loislin.azurewebsites.net/ -->
+![](./images/home-images/肉球新聞.png)
+
+[foo]: https://loislin.azurewebsites.net/  "  "
+# 2. JavaScript
+ **溫度轉換**  
+       bootstrap/CSS
     ![](./images/home-images/__溫度轉換.png "溫度轉換")
-    1A2B
-    終極密碼
+      **溫度轉換**  
+      bootstrap/CSS
+![](./images/home-images/image-2-3.png "溫度轉換")
+      **交通預算**  
+      bootstrap/CSS/googleapi
+![](./images/home-images/image-2-4.png "交通預算")
+ **1A2B**  
+ bootstrap/CSS
+![](./images/home-images/image-2-5.png "1A2B")
 # 3. jQuery
- **小瑪莉**
-![](./images/home-images/TurntableGame.png "小瑪莉")
-   **行事曆**
-![](./images/home-images/Itinerary.png "行事曆")
-  **打地鼠**
-![](./images/home-images/WhackAMole.png "打地鼠")
-    **溫度轉換**
-![](./images/home-images/Temperature.png "溫度轉換")
-  **終極密碼**
-![](./images/home-images/GuessNumber.png "終極密碼")
-   **1A2B**
-   ![](./images/home-images/1A2B.png "1A2B")
-  
+**行事曆**  
+bootstrap/CSS/googleapi
+![](./images/home-images/image-1-1.png "行事曆")
+    **打地鼠**  
+bootstrap/CSS
+![](./images/home-images/image-1-2.png "打地鼠")
+  **小瑪莉**  
+  bootstrap/CSS
+![](./images/home-images/image-1-3.png "小瑪莉")
+**遊程規劃**  
+bootstrap/CSS/googleapi
+![](./images/home-images/image-1-4.png "遊程規劃")
+  **日曆**  
+  bootstrap/CSS
+![](./images/home-images/image-2-1r.png "日曆")
+**終極密碼**  
+bootstrap/CSS
+   ![](./images/home-images/image-2-2.png "終極密碼")
+
+
+
 
