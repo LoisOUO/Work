@@ -3,10 +3,9 @@
 # 1. HTML
 
 **肉球新聞**
+bootstrap/CSS
 <!-- https://loislin.azurewebsites.net/ -->
 ![](./images/home-images/肉球新聞.png)
-
-[foo]: https://loislin.azurewebsites.net/  "  "
 # 2. JavaScript
  **溫度轉換**  
        bootstrap/CSS
