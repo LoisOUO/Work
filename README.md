@@ -2,40 +2,39 @@
 
 # 1. HTML
 
-**肉球新聞**
+**KittenNew/肉球新聞**  [more](https://loislin.azurewebsites.net/)  
 bootstrap/CSS
-<!-- https://loislin.azurewebsites.net/ -->
 ![](./images/home-images/肉球新聞.png)
 # 2. JavaScript
- **溫度轉換**  
+ <!-- **溫度轉換**  
        bootstrap/CSS
-    ![](./images/home-images/__溫度轉換.png "溫度轉換")
-      **溫度轉換**  
+    ![](./images/home-images/__溫度轉換.png "溫度轉換") -->
+ **溫度轉換**  [more]()  
       bootstrap/CSS
 ![](./images/home-images/image-2-3.png "溫度轉換")
-      **交通預算**  
-      bootstrap/CSS/googleapi
+**交通預算**  [more]()  
+      bootstrap/CSS/AJAX呼叫googleapi
 ![](./images/home-images/image-2-4.png "交通預算")
  **1A2B**  
- bootstrap/CSS
+ bootstrap/CSS[more]()  
 ![](./images/home-images/image-2-5.png "1A2B")
 # 3. jQuery
-**行事曆**  
-bootstrap/CSS/googleapi
+**行事曆**  [more]()  
+bootstrap/CSS/AJAX
 ![](./images/home-images/image-1-1.png "行事曆")
-    **打地鼠**  
+    **打地鼠**  [more]()  
 bootstrap/CSS
 ![](./images/home-images/image-1-2.png "打地鼠")
-  **小瑪莉**  
+  **小瑪莉**  [more]()  
   bootstrap/CSS
 ![](./images/home-images/image-1-3.png "小瑪莉")
-**遊程規劃**  
-bootstrap/CSS/googleapi
+**遊程規劃**  [more]()  
+bootstrap/CSS/AJAX
 ![](./images/home-images/image-1-4.png "遊程規劃")
-  **日曆**  
-  bootstrap/CSS
-![](./images/home-images/image-2-1r.png "日曆")
-**終極密碼**  
+  **月曆**  [more](https://github.com/LoisOUO/2018-BuildSchool-Front-End/tree/master/jQuery/Calendar)  
+  bootstrap/CSS   
+![](./images/home-images/image-2-1.png "月曆")
+**終極密碼**  [more]()  
 bootstrap/CSS
    ![](./images/home-images/image-2-2.png "終極密碼")
 
