@@ -2,9 +2,9 @@
 
 # 1. HTML
 
-**KittenNew/肉球新聞**  [more](https://loislin.azurewebsites.net/)  
+**KittenNew/肉球新聞**  [more](https://github.com/LoisOUO/2018-BuildSchool-Front-End/tree/master/HTML/KittenNew) 
 bootstrap/CSS
-![](./images/home-images/肉球新聞.png)
+[![](./images/home-images/肉球新聞.png)](https://loisfrontend.azurewebsites.net/HTML/KittenNew/)
 # 2. JavaScript
  <!-- **溫度轉換**  
        bootstrap/CSS
